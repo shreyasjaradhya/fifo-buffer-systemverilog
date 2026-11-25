@@ -1,0 +1,6 @@
+work/
+transcript
+vsim.wlf
+*.vcd
+*.fst
+*.log
